@@ -1,0 +1,36 @@
+body {
+    font-family:'Hachi maru Pop',cursive;
+    font-size: 20px;
+    padding: 0 20px 30px 0;
+    line-height: 1.4;
+}
+.flex-container{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    height: 400px;
+    justify-content: center;
+    transition: 2s all ease;
+}
+
+.flex-item{
+    background: white;
+    border: 1pt solid black;
+    border-radius: 5%;
+        width: 20px;
+    transition: 0.1s all ease;
+}
+
+.row{
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+}
+
+#input{
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+
