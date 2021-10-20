@@ -1,4 +1,32 @@
-# Minor-Project
-It is a sorting visualizer web app build using html, css and js.
-User can visualize the different sorting algorithms that how it is working and how different operations like swapping etc are working behind the scenes.
-It is very helpful for begginers in DSA and Sorting Algorithms.
+## Description
+
+This project helps one to visualize a sorting algorithm. Each element of the array is displayed as a bar. The operations are colour coded such that: 
+
+1. Red - Swap
+2. Blue - Comparison 
+3. Green - Element is in sorted position
+
+It compares the time taken by the different algorithm for sorting the array.
+
+
+
+### Technologies
+
+- HTML 
+- CSS
+- Javascript (p5.js)
+
+---
+
+
+## References
+
+Useful links discribing the algorithms used 
+
+- [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
+- [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
+- [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
+- [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
+
+
+[Back To The Top](#read-me-template)
