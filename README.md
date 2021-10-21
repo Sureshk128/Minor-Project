@@ -27,6 +27,6 @@ Useful links discribing the algorithms used
 - [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
+- [insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)
 
 
-[Back To The Top](#read-me-template)
